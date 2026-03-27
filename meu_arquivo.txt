@@ -1,0 +1,1 @@
+Requisitos de Git cumpridos dentro de um projeto de API real
