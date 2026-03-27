@@ -29,3 +29,5 @@ Criar um usuário (/v1/user).
 Realizar o login (/v1/login) para obter o Bearer Token.
 
 Incluir o token no Header de Autorização das requisições.
+
+Desenvolvido por Francisco Jailson de Souza Oliveira - Março de 2026.
